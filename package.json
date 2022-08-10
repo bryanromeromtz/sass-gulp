@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "pagina de musica",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanromeromtz/sass-gulp.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Bryan Sepia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanromeromtz/sass-gulp/issues"
+  },
+  "homepage": "https://github.com/bryanromeromtz/sass-gulp#readme",
+  "dependencies": {
+    "sass": "^1.54.3"
+  }
+}
