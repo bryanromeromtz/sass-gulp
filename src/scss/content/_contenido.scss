@@ -1,0 +1,11 @@
+
+@use 'base/variables' as var;
+
+body {
+    background-color: var.$red;
+  }
+
+
+hi {
+    color: var.$black;
+}
